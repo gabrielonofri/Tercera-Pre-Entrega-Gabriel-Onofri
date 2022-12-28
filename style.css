@@ -1,0 +1,47 @@
+.imgrepuestos {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-top: 1rem;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+}
+
+.colorBoton {
+    color: white;
+    background-color: #2409ec;
+}
+
+.colorBoton:hover {
+    background-color: rgb(226, 23, 107);
+    color: white;
+}
+
+.card {
+
+    background-color: gainsboro
+    
+}
+
+footer {
+
+    background: #1b2a4e;
+    min-height: 100px;
+    margin-top: 5px;
+}
+
+footer p {
+
+color: #f3f3f3;
+text-align: center;
+}
+
+h1 {
+
+color: #2409ec;
+
+}
